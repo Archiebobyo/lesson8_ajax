@@ -13,8 +13,7 @@ Gregory Gruse
 In this exercise, we built an application that displays information about movies using an API, Ajax, and JSON-formatted Data to build said application.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://archiebobyo.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. Learnd how to uses an API to build an application.
